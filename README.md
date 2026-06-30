@@ -1,2 +1,21 @@
 # intelligent-fcu-platform
 Open-source intelligent FCU controller using ESP32, Raspberry Pi, MQTT, BACnet/IP, Lorawan and Machine Learning.
+Intelligent FCU Platform
+
+An edge-native HVAC optimisation platform built around ESP32 controllers,
+Raspberry Pi edge computing and Artificial Intelligence.
+
+Features
+
+✔ ESP32 intelligent controller
+✔ Raspberry Pi edge server
+✔ BACnet/IP
+✔ MQTT
+✔ LoRaWAN
+✔ PostgreSQL
+✔ Node-RED
+✔ Grafana
+✔ Machine Learning
+✔ Occupancy optimisation
+✔ Edge AI
+✔ Vendor agnostic
