@@ -19,3 +19,4 @@ Features
 ✔ Occupancy optimisation
 ✔ Edge AI
 ✔ Vendor agnostic
+<img width="1012" height="687" alt="image" src="https://github.com/user-attachments/assets/51345e57-9c62-417b-9b47-9181defcc110" />
